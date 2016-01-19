@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RippleAnimView">
+        <attr name="rv_alpha" format="integer"/>
+        <attr name="rv_maxRadius" format="float"/>
+        <attr name="rv_durationTime" format="float"/>
+        <attr name="rv_circleStyle" format="integer"/>
+        <attr name="rv_firstCircleColor" format="color"/>
+        <attr name="rv_secondCircleColor" format="color"/>
+    </declare-styleable>
+</resources>
